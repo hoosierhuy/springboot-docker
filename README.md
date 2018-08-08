@@ -11,4 +11,4 @@ Java 10, SpringBoot, Docker
 `http://localhost:8085/howdy`
 
 
-I still think NodeJS is faster to spin up and api.
+I still think NodeJS is faster to spin up an api.
